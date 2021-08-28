@@ -1,0 +1,25 @@
+QUESTIONS 
+----------
+WHY DO WE HAVE TO CHOOSE A SHOP IF WE ARE LOGGED IN AS SHOP 
+ANY PRODUCT THAT WE ADD WILL GO ONLY TO THAT SHOP
+how the orderflow works
+creating new shop can only done by super admin otherwise display the logged in shop details only
+
+PRODUCTS 
+----------
+BEST SELLER NOT STORING IN DATABASE 
+HASOFFER AND OFFER PRICE NOT STORING IN DATABASE
+SHOW PRODUCS THAT ARE NOT ACTIVE FOR ADMIN
+get products that belongs to the logged in shop
+get deleted products
+
+
+orders 
+-----
+tax values is always in 0
+
+
+
+usrs 
+-----
+api to delete users 
